@@ -14,8 +14,6 @@ The green box is for the IR sensor and battery.
 
 The blue box is for the actuator.  Once it's activated the door will fall to trap the birds.
 
-<img width="967" alt="screen shot 2016-11-10 at 2 05 06 pm" src="https://cloud.githubusercontent.com/assets/22894897/20194508/ce06c2c0-a74f-11e6-9813-3488ecaab377.png">
-
 <img width="871" alt="screen shot 2016-11-10 at 2 05 21 pm" src="https://cloud.githubusercontent.com/assets/22894897/20194511/ce0fdfa4-a74f-11e6-9f04-bc44a19e86c7.png">
 
 <img width="903" alt="screen shot 2016-11-10 at 9 30 33 pm" src="https://cloud.githubusercontent.com/assets/22894897/20204459/fabd1340-a78c-11e6-9a63-9aa6783b152e.png">
