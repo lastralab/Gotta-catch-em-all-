@@ -40,6 +40,6 @@ IR Transmitter
 
 Simulator: 
 
-![birdtrap](https://cloud.githubusercontent.com/assets/22894897/20204229/25a5219e-a78b-11e6-87fd-9b4beb11ca9d.gif)
+![motor2](https://cloud.githubusercontent.com/assets/22894897/20224707/fd1072d4-a7fc-11e6-89bd-b9e248fca618.gif)
 
-Every time you press a transmitter button, the motor rotates.
+Every time you press a transmitter button, the motor rotates and the light bulb turns on to indicate it is receiving a signal.
