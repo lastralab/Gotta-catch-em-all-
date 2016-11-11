@@ -1,4 +1,5 @@
-# Gotta-catch-em-all-
+# Gotta catch 'em all!
+
 Safe bird trap for research.
 
 These are the images from the 3D model, based on the Yunick trap design for parakeets.
@@ -33,3 +34,4 @@ IR Transmitter
 
 <img width="1086" alt="screen shot 2016-11-10 at 8 19 52 pm" src="https://cloud.githubusercontent.com/assets/22894897/20203450/9e52a28a-a784-11e6-9491-8b25f5850b41.png">
 
+![birdtrap](https://cloud.githubusercontent.com/assets/22894897/20204229/25a5219e-a78b-11e6-87fd-9b4beb11ca9d.gif)
