@@ -34,6 +34,10 @@ Solenoid 4.5V
 
 Battery holder
 
-The Fritzing Sketch can be used as a guide, just replace 9V with 12V battery, even if it works with 9V ('cause it does!), and 
-with the module everything else is easier, because it already has the relay and the signal receiver together, then you'll just
-have to press a button to activate it.
+The Fritzing Sketch can be used as a guide, just replace 9V with 12V battery, even if it works with 9V ('cause it does!), and working
+with the module everything else is easier, because it already has the relay and the signal receiver in it, then you'll just
+have to press a button to activate it. Modules are not in the Fritzing world, so I had to use separated components.
+
+Schematics:
+
+<img width="760" alt="screenshot 2017-01-26 15 50 49" src="https://cloud.githubusercontent.com/assets/22894897/22353767/4fcc05e2-e3df-11e6-8643-c9629233b5da.png">
