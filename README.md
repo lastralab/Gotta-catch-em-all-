@@ -22,24 +22,3 @@ The DIY remote control mechanism:
 
 <img width="1072" alt="screen shot 2016-11-10 at 8 20 14 pm" src="https://cloud.githubusercontent.com/assets/22894897/20203449/9e50c762-a784-11e6-9262-9026f1af3e8b.png">
 
-Parts I used:
-
-Resistance 1k
-
-3V-12V DC 80mA-350mA Mini Solenoid Electromagnet
-
-Lithium Battery 3V, 9V
-
-TSOP1738TB1
-
-Wires and soldering iron
-
-IR Transmitter
-
-<img width="1086" alt="screen shot 2016-11-10 at 8 19 52 pm" src="https://cloud.githubusercontent.com/assets/22894897/20203450/9e52a28a-a784-11e6-9491-8b25f5850b41.png">
-
-Simulator: 
-
-![motor2](https://cloud.githubusercontent.com/assets/22894897/20224707/fd1072d4-a7fc-11e6-89bd-b9e248fca618.gif)
-
-Every time you press a transmitter button, the motor rotates and the light bulb turns on to indicate it is receiving a signal.
