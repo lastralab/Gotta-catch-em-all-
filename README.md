@@ -25,9 +25,13 @@ The DIY remote control mechanism:
 PARTS NEEDED:
 
 Receiver & Relay 12VDC Module (IR or RF signal can be used)
+
 Transmitter Control (separate)
+
 Solenoid 4.5V
+
 12V Battery A23
+
 Battery holder
 
 The Fritzing Sketch can be used as a guide, just replace 9V with 12V battery, even if it works with 9V ('cause it does!), and 
