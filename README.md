@@ -41,3 +41,9 @@ have to press a button to activate it. Modules are not in the Fritzing world, so
 Schematics:
 
 <img width="760" alt="screenshot 2017-01-26 15 50 49" src="https://cloud.githubusercontent.com/assets/22894897/22353767/4fcc05e2-e3df-11e6-8643-c9629233b5da.png">
+
+First prototype:
+
+![rf](https://cloud.githubusercontent.com/assets/22894897/22353963/40ffa644-e3e0-11e6-8583-06736c381c1a.gif)
+
+I apologize for bad gif quality.
