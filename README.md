@@ -12,8 +12,6 @@ The green box is for the Signal Receiver, Relay and battery.
 
 The blue box is for the actuator.  Once it's activated by the remote control the door will fall to trap the birds.
 
-<img width="871" alt="screen shot 2016-11-10 at 2 05 21 pm" src="https://cloud.githubusercontent.com/assets/22894897/20194511/ce0fdfa4-a74f-11e6-9f04-bc44a19e86c7.png">
-
 <img width="758" alt="screen shot 2016-11-11 at 10 28 05 am" src="https://cloud.githubusercontent.com/assets/22894897/20224033/a867fb9c-a7f9-11e6-9de8-ae2f08a6c396.png">
 
 The DIY remote control mechanism (by Tania Molina):
