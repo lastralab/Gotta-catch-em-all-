@@ -18,7 +18,7 @@ The blue box is for the actuator.  Once it's activated the door will fall to tra
 
 <img width="758" alt="screen shot 2016-11-11 at 10 28 05 am" src="https://cloud.githubusercontent.com/assets/22894897/20224033/a867fb9c-a7f9-11e6-9de8-ae2f08a6c396.png">
 
-The DIY remote control mechanism:
+The DIY remote control mechanism (by Tania Molina):
 
 <img width="891" alt="screenshot 2017-01-26 15 08 45" src="https://cloud.githubusercontent.com/assets/22894897/22352500/a62693f4-e3d9-11e6-8ea4-3f709d24f731.png">
 
