@@ -44,7 +44,7 @@ First prototype:
 
 I apologize for bad gif quality.
 
-# Controlling cage through IR remote control and two SPDT relays:
+# Alternative option: Controlling cage through IR remote control and two SPDT relays:
 
 ![dcr](https://cloud.githubusercontent.com/assets/22894897/26065112/49ca8332-3969-11e7-903d-391ef67d7696.gif)
 
