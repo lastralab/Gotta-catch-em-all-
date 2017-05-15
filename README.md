@@ -43,3 +43,46 @@ First prototype:
 ![rf](https://cloud.githubusercontent.com/assets/22894897/22353963/40ffa644-e3e0-11e6-8583-06736c381c1a.gif)
 
 I apologize for bad gif quality.
+
+# Controlling cage through IR remote control and two SPDT relays:
+
+![dcr](https://cloud.githubusercontent.com/assets/22894897/26065112/49ca8332-3969-11e7-903d-391ef67d7696.gif)
+
+Arduino Code:
+
+```C++
+//Bird trap test
+
+#include <IRremote.h>
+
+int ActuatorF = 11;
+int ActuatorR = 10;
+int val = Serial.read();
+int RECV_PIN = 7; 
+IRrecv irrecv(RECV_PIN);
+decode_results results;
+
+  void setup(){
+      pinMode(ActuatorF, OUTPUT);
+      pinMode(ActuatorR, OUTPUT);
+	  digitalWrite(ActuatorF, LOW);
+      digitalWrite(ActuatorR, LOW);
+      Serial.begin(9600);
+      irrecv.enableIRIn();
+    }
+
+  void loop(){
+    
+        if (irrecv.decode(&results))
+        {
+         Serial.println(results.value, DEC);
+         digitalWrite(ActuatorF, HIGH); //forwards
+         digitalWrite(ActuatorR, LOW);
+        }
+       else 
+       { digitalWrite(ActuatorF, LOW); //backwards
+         digitalWrite(ActuatorR, HIGH);
+       }
+	}
+
+```
