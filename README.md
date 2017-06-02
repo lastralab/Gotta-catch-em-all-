@@ -46,9 +46,7 @@ I apologize for bad gif quality.
 
 # Alternative option: Controlling cage through IR remote control and two SPDT relays:
 
-![dcr](https://cloud.githubusercontent.com/assets/22894897/26065112/49ca8332-3969-11e7-903d-391ef67d7696.gif)
-
-**Arduino Code:**
+Arduino Code:
 
 ```C++
 //Bird trap test
@@ -86,3 +84,5 @@ decode_results results;
 	}
 
 ```
+
+![dcr](https://cloud.githubusercontent.com/assets/22894897/26065112/49ca8332-3969-11e7-903d-391ef67d7696.gif)
