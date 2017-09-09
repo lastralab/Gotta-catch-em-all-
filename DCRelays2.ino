@@ -1,4 +1,5 @@
 //Bird trap test
+// Author: Niam Moltta
 
 #include <IRremote.h>
 
