@@ -49,7 +49,9 @@ I apologize for bad gif quality.
 Arduino Code:
 
 ```C++
+
 //Bird trap test
+//Author: Niam Moltta
 
 #include <IRremote.h>
 
